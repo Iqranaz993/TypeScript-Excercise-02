@@ -1,0 +1,1 @@
+"# TypeScript-assigment-1" 
